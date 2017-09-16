@@ -43,6 +43,7 @@ div.heading-background:hover {
 button {
 	background-color: white;
 	border: none;
+	float: right;
 }
 .modal-body {
 	font-size: 30px;
@@ -61,5 +62,11 @@ img {
 	}
 	.modal-body {
 		font-size: 20px;
+	}
+	body {
+		background-size: 1000px;
+	}
+	div.heading-background {
+		opacity: 0.9;
 	}
 }
